@@ -29,7 +29,7 @@ function Footer(){
           <p>📞 <a href="tel:9821165230" className="footer-link">9821165230</a></p>
           <p>📞 <a href="tel:9821366774" className="footer-link">9821366774</a></p>
           <p>📧 <a href="mailto:omprotectionandalliedservices@gmail.com" className="footer-link">omprotectionandalliedservices@gmail.com</a></p>
-          <p>📍 Maharashtra, India</p>
+          <p>📍 Mira Road, Mumbai, Maharashtra</p>
         </div>
 
       </div>

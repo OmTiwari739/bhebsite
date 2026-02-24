@@ -42,7 +42,7 @@ function CTA(){
         <p>Contact us today for reliable, trusted and disciplined security solutions across Maharashtra.</p>
 
         <div style={{display:"flex", gap:"15px", justifyContent:"center", flexWrap:"wrap", marginTop:"10px"}}>
-          <a href="https://wa.me/919821165230" className="btn">💬 WhatsApp</a>
+          <a href="https://wa.me/919821165230?text=Hello%2C%20I%20want%20to%20enquire%20about%20security%20services%20from%20Om%20Protection%20and%20Allied%20Services." className="btn">💬 WhatsApp</a>
 
           {/* Call Dropdown */}
           <div ref={dropdownRef} style={{position:"relative", display:"inline-block"}}>

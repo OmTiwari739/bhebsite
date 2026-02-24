@@ -10,18 +10,16 @@ import CTA from "./components/CTA"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 import FloatingButtons from "./components/FloatingButtons"
+import ScrollToTop from "./components/ScrollToTop"
 import QuoteModal from "./components/QuoteModal"
 import "./styles.css"
 
-
 function App(){
-
   const [open,setOpen] = useState(false)
 
   return (
     <>
       <Navbar/>
-
       <Home openModal={()=>setOpen(true)} />
       <About/>
       <Services/>
@@ -31,8 +29,7 @@ function App(){
       <Contact/>
       <Footer/>
       <FloatingButtons/>
-      
-
+      <ScrollToTop/>
       <QuoteModal show={open} close={()=>setOpen(false)} />
     </>
   )
