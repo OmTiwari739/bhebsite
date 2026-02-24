@@ -108,7 +108,7 @@ function Contact() {
                         <div style={{fontSize:"32px", marginBottom:"10px"}}>🏢</div>
                         <h3>Office Contact</h3>
                         <p>OM Protection and Allied Services</p>
-                        <p style={{wordBreak:"break-all", fontSize:"13px"}}>📧 <a href="mailto:saineek4122@gmail.com" style={{wordBreak:"break-all"}}>saineek4122@gmail.com</a></p>
+                        <p style={{wordBreak:"break-all", fontSize:"13px"}}>📧 <a href="mailto:omprotectionandalliedservices@gmail.com" style={{wordBreak:"break-all"}}>omprotectionandalliedservices@gmail.com</a></p>
                         <p>📍 Mira Road, Mumbai, Maharashtra</p>
                     </div>
                 </div>
